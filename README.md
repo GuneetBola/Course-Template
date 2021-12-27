@@ -14,5 +14,6 @@ https://course-template-co-op.netlify.app/
   - `HTML`
   - `JavaScript`
   - `CSS`
+  - `Bootstrap 4`
 
 Designed by Scott Smith.
